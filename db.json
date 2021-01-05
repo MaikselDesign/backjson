@@ -1,7 +1,6 @@
 {
    "Name":"heftige Simulation",
    "Woche1": {
-      "id":1,
       "quantity":1001,
       "quantitySimulation":12.5,
       "price":1.70,
@@ -12,7 +11,6 @@
       "kw":15
    },
    "Woche2": {
-      "id":2,
       "quantity":899,
       "quantitySimulation":21,
       "price":1.85,
@@ -23,7 +21,6 @@
       "kw":16
    },
    "Woche3": {
-      "id":3,
       "quantity":1200,
       "quantitySimulation":34,
       "price":1.7,
