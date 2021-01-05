@@ -1,7 +1,6 @@
 {
    "heftige Simulation": {
-      "Woche_1"
-      {
+      "Woche_1": {
          "id":1,
          "quantity":1001,
          "quantitySimulation":12.5,
@@ -12,8 +11,7 @@
          "event":"Ehre",
          "kw":15
       },
-      {
-         "name":"Woche_2",
+      "Woche_2": {
          "id":2,
          "quantity":899,
          "quantitySimulation":21,
@@ -24,8 +22,7 @@
          "event":"Dürre",
          "kw":16
       },
-      {
-         "name":"Woche_3",
+      "Woche_3": {
          "id":3,
          "quantity":1200,
          "quantitySimulation":34,
@@ -36,5 +33,5 @@
          "event":"Englandurlaub",
          "kw":17
       }
-}
+   }
 }
