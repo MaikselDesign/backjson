@@ -1,6 +1,6 @@
 {
-   "Name":"heftige Simulation",
-   "Wochen": [
+   "name":"heftige Simulation",
+   "wochen": [
       {
          "quantity":1001,
          "quantitySimulation":12.5,
