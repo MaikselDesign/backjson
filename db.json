@@ -1,6 +1,7 @@
 {
    "wochen": [
       {
+         "id": 1,
          "quantity":1001,
          "quantitySimulation":12.5,
          "price":1.70,
@@ -11,6 +12,7 @@
          "kw":15
       },
       {
+         "id": 2,
          "quantity":899,
          "quantitySimulation":21,
          "price":1.85,
@@ -21,6 +23,7 @@
          "kw":16
       },
       {
+         "id": 3,
          "quantity":1200,
          "quantitySimulation":34,
          "price":1.7,
