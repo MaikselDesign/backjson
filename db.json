@@ -1,6 +1,6 @@
 {
    "Name":"heftige Simulation",
-   "Woche_1":{
+   "Woche1":{
       "id":1,
       "quantity":1001,
       "quantitySimulation":12.5,
@@ -11,7 +11,7 @@
       "event":"Ehre",
       "kw":15
    },
-   "Woche_2":{
+   "Woche2":{
       "id":2,
       "quantity":899,
       "quantitySimulation":21,
@@ -22,7 +22,7 @@
       "event":"Dürre",
       "kw":16
    },
-   "Woche_3":{
+   "Woche3":{
       "id":3,
       "quantity":1200,
       "quantitySimulation":34,
