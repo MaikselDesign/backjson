@@ -4,33 +4,6 @@
       "id":1,
       "quantity":1001,
       "quantitySimulation":12.5,
-      "price":1.70,
-      "sales":1701.7,
-      "salesSimulation":1701.7,
-      "marketShare":29.9,
-      "event":"Ehre",
-      "kw":15
-   },
-   "Woche2": {
-      "id":2,
-      "quantity":899,
-      "quantitySimulation":21,
-      "price":1.85,
-      "sales":1663.15,
-      "salesSimulation":3364.85,
-      "marketShare":30.8,
-      "event":"Dürre",
-      "kw":16
-   },
-   "Woche3": {
-      "id":3,
-      "quantity":1200,
-      "quantitySimulation":34,
-      "price":1.7,
-      "sales":2040,
-      "salesSimulation":5404.85,
-      "marketShare":30.2,
-      "event":"Englandurlaub",
-      "kw":17
+      "price":1.70
    }
 }
