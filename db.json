@@ -1,5 +1,6 @@
 {
-   "heftigeSimulation": [
+   "name": "heftigeSimulation",
+   "wochen": [
       {
          "id": 1,
          "quantity": 1001,
