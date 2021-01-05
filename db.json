@@ -1,7 +1,7 @@
 {
-   "heftigeSimulation": [
+   "heftige Simulation": {
+      "Woche_1"
       {
-         "name":"Woche_1",
          "id":1,
          "quantity":1001,
          "quantitySimulation":12.5,
@@ -36,5 +36,5 @@
          "event":"Englandurlaub",
          "kw":17
       }
-   ]
+}
 }
