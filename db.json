@@ -27,7 +27,7 @@
          "kw":15
       },
       {
-         "name": "atemberaubende Simulation",
+         "name": "heftige Simulation",
          "id": 2,
          "quantity":899,
          "quantitySimulation":21,
@@ -39,7 +39,7 @@
          "kw":16
       },
       {
-         "name": "höchst interessante Simulation",
+         "name": "heftige Simulation",
          "id": 3,
          "quantity":1200,
          "quantitySimulation":34,
@@ -48,6 +48,78 @@
          "salesSimulation":5404.85,
          "marketShare":30.2,
          "event":"Englandurlaub",
+         "kw":17
+      },
+      {
+         "name": "atemberaubende Simulation",
+         "id": 1,
+         "quantity":1001,
+         "quantitySimulation":12.5,
+         "price":1.70,
+         "sales":1701.7,
+         "salesSimulation":1701.7,
+         "marketShare":29.9,
+         "event":"Tiefschlag",
+         "kw":15
+      },
+      {
+         "name": "atemberaubende Simulation",
+         "id": 2,
+         "quantity":899,
+         "quantitySimulation":21,
+         "price":1.85,
+         "sales":1663.15,
+         "salesSimulation":3364.85,
+         "marketShare":30.8,
+         "event":"Hagel",
+         "kw":16
+      },
+      {
+         "name": "atemberaubende Simulation",
+         "id": 3,
+         "quantity":1200,
+         "quantitySimulation":34,
+         "price":1.7,
+         "sales":2040,
+         "salesSimulation":5404.85,
+         "marketShare":30.2,
+         "event":"Brexit",
+         "kw":17
+      },
+      {
+         "name": "höchst interessante Simulation",
+         "id": 1,
+         "quantity":1001,
+         "quantitySimulation":12.5,
+         "price":1.70,
+         "sales":1701.7,
+         "salesSimulation":1701.7,
+         "marketShare":29.9,
+         "event":"Tic",
+         "kw":15
+      },
+      {
+         "name": "höchst interessante Simulation",
+         "id": 2,
+         "quantity":899,
+         "quantitySimulation":21,
+         "price":1.85,
+         "sales":1663.15,
+         "salesSimulation":3364.85,
+         "marketShare":30.8,
+         "event":"Tac",
+         "kw":16
+      },
+      {
+         "name": "höchst interessante Simulation",
+         "id": 3,
+         "quantity":1200,
+         "quantitySimulation":34,
+         "price":1.7,
+         "sales":2040,
+         "salesSimulation":5404.85,
+         "marketShare":30.2,
+         "event":"Toe",
          "kw":17
       }
    ]
