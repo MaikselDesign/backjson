@@ -15,7 +15,7 @@
       ],
    "wochen": [
       {
-         "name": "Test 1",
+         "name": "heftige Simulation",
          "id": 1,
          "quantity":1001,
          "quantitySimulation":12.5,
@@ -27,7 +27,7 @@
          "kw":15
       },
       {
-         "name": "Test 2",
+         "name": "atemberaubende Simulation",
          "id": 2,
          "quantity":899,
          "quantitySimulation":21,
@@ -39,7 +39,7 @@
          "kw":16
       },
       {
-         "name": "Test 3",
+         "name": "höchst interessante Simulation",
          "id": 3,
          "quantity":1200,
          "quantitySimulation":34,
