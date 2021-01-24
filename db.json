@@ -1,15 +1,15 @@
 {
    "simulationen": [
       {
-         "id": 1,
+         "id": "abc1xyz",
          "name": "heftige Simulation"
       },
       {
-         "id": 2,
+         "id": "abc2xyz",
          "name": "atemberaubende Simulation"
       },
       {
-         "id": 3,
+         "id": "abc3xyz",
          "name": "höchst interessante Simulation"
       }
       ],
