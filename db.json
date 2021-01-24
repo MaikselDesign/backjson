@@ -2,15 +2,15 @@
    "simulationen": [
       {
          "id": 1,
-         "name": "heftige_Simulation"
+         "name": "heftige Simulation"
       },
       {
          "id": 2,
-         "name": "atemberaubende_Simulation"
+         "name": "atemberaubende Simulation"
       },
       {
          "id": 3,
-         "name": "mega_interessante_Simulation"
+         "name": "höchst interessante Simulation"
       }
       ],
    "wochen": [
