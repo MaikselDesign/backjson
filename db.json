@@ -1,54 +1,17 @@
-{
-   "simulationen": [
-      {
-         "id": "abc1xyz",
-         "name": "heftige Simulation"
-      },
-      {
-         "id": "abc2xyz",
-         "name": "atemberaubende Simulation"
-      },
-      {
-         "id": "abc3xyz",
-         "name": "höchst interessante Simulation"
-      }
-      ],
-   "weeks": [
-      {
-         "name": "heftige_Simulation",
-         "id": 1,
-         "quantity":1001,
-         "quantitySimulation":12.5,
-         "price":1.70,
-         "sales":1701.7,
-         "salesSimulation":1701.7,
-         "marketShare":29.9,
-         "event":"Ehre",
-         "kw":15
-      },
-      {
-         "name": "atemberaubende_Simulation",
-         "id": 4,
-         "quantity":1001,
-         "quantitySimulation":12.5,
-         "price":1.70,
-         "sales":1701.7,
-         "salesSimulation":1701.7,
-         "marketShare":29.9,
-         "event":"Tiefschlag",
-         "kw":15
-      },
-      {
-         "name": "höchst_interessante_Simulation",
-         "id": 7,
-         "quantity":1001,
-         "quantitySimulation":12.5,
-         "price":1.70,
-         "sales":1701.7,
-         "salesSimulation":1701.7,
-         "marketShare":29.9,
-         "event":"Tic",
-         "kw":15
-      }
-   ]
-}
+[
+	{
+	"Case":"CS0011111",
+	"Id":1,
+	"Time": "35:49"
+	},
+	{
+	"Case":"CS0022222",
+	"Id":2,
+	"Time": "72:11"
+	},
+	{
+	"Case":"CS0033333",
+	"Id":3,
+	"Time": "03:38"
+	}
+]
